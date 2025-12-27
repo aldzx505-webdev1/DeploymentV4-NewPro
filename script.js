@@ -1,10 +1,10 @@
 // Konfigurasi
 const VercelTokens = [
-    "mhkw1HU1M0JDeVEwbvacvg9U",
-    "mhkw1HU1M0JDeVEwbvacvg9U",
-    "mhkw1HU1M0JDeVEwbvacvg9U",
-    "mhkw1HU1M0JDeVEwbvacvg9U",
-    "mhkw1HU1M0JDeVEwbvacvg9U"
+    "DnxPJKeYJO9k1FCwIFXTb5Kx",
+    "YFT1243UKGcf6fhgyl1z2jF7",
+    "Eiru24PZqYsn2MpyqpuRBgDz",
+    "HwNrfVWGaYB6kg5GAxHJRMbA",
+    "2XzSNnNXBHS3PpdmUJnvQ08M"
 ];
 
 const botToken = "8479433737:AAHRZV92FHS2zCXlzV4Esia0KRoG5znJYL0";
